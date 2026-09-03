@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./logo-tryai.svg" alt="Logo TryAI Gap" width="450">
+</p>
+
+<h1 align="center">TryAI Gap (Bridge the AI Gap) 🚀</h1>
 # TryAI Gap (Bridge the AI Gap) 🚀
 
 > Plataforma web SaaS multitenant diseñada para evaluar el nivel de madurez y preparación de las organizaciones frente a la adopción de Inteligencia Artificial.
